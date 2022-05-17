@@ -1,0 +1,15 @@
+{
+  "name": "todo-cypress-cloudtalk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open",
+    "test-headless": "npx cypress run"
+  },
+  "author": "Lumir Verner",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.6.1"
+  }
+}
